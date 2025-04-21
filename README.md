@@ -3,8 +3,8 @@
 
 
 
-<h3 align="left">I am a Biomedical Engineer passionate about the world of Data Analysis and Data Engineering. My background in biomedical engineering has given me a strong foundation in problem-solving, data interpretation, and technical skills.</h3>
-<p align="left">
+<h3 align="center">I am a Biomedical Engineer passionate about the world of Data Analysis and Data Engineering. My background in biomedical engineering has given me a strong foundation in problem-solving, data interpretation, and technical skills.</h3>
+<p align="center">
 </p>
 
 <h3 style="text-align: left;">👩‍🔬 About Me:</h3>
