@@ -32,7 +32,7 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amela-akija&show_icons=true&locale=en&layout=compact" alt="amela-akija" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amela-akija&" alt="amela-akija" />
+  
 </div>
 
 
