@@ -13,6 +13,7 @@
   <li><strong>Key Skills</strong>:
     <ul>
       <li><strong>Biomedical Engineering</strong>: Medical devices, imaging, bioinformatics</li>
+       <li><strong>Software development</strong>: Java, Spring Boot, React</li>
       <li><strong>Data Analysis</strong>: Python, Pandas, NumPy</li>
        <li><strong>Mobile Development</strong>: Flutter, Firebase</li>
     </ul>
