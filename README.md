@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amela</h1>
 <h3 align="center">Biomedical engineer from Poland</h3>
 
-<h3 align="center">I am a Biomedical Engineer passionate about the world of Data Analysis. I have experience in creating multi-platform software using various programming languages. My background in biomedical engineering has given me a strong foundation in problem-solving, data interpretation, and technical skills.  </h3>
+<h3 align="center">I am a Biomedical Engineer with a passion for Data Analysis and experience in developing multi-platform software using various programming languages. My background in biomedical engineering has given me a strong foundation in problem-solving, data interpretation, and technical skills.  </h3>
 <p align="center">
 </p>
 
