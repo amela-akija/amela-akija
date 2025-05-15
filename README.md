@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amela</h1>
 <h3 align="center">Biomedical engineer from Poland</h3>
 
-<h3 align="center">I am a Biomedical Engineer passionate about the world of Data Analysis and Data Engineering. My background in biomedical engineering has given me a strong foundation in problem-solving, data interpretation, and technical skills.  </h3>
+<h3 align="center">I am a Biomedical Engineer passionate about the world of Data Analysis. I have experience in creating multi-platform software using various programming languages. My background in biomedical engineering has given me a strong foundation in problem-solving, data interpretation, and technical skills.  </h3>
 <p align="center">
 </p>
 
@@ -9,21 +9,20 @@
 
 <ul style="text-align: left;">
   <li><strong>Profession</strong>: Biomedical Engineer</li>
-  <li><strong>Current Focus</strong>: Learning Data Analysis, Data Engineering, and Machine Learning</li>
+  <li><strong>Current Focus</strong>: Learning Data Analysis and Data Visualization tools</li>
   <li><strong>Key Skills</strong>:
     <ul>
       <li><strong>Biomedical Engineering</strong>: Medical devices, imaging, bioinformatics</li>
-       <li><strong>Software development</strong>: Java, Spring Boot, React</li>
-      <li><strong>Data Analysis</strong>: Python, Pandas, NumPy</li>
-       <li><strong>Mobile Development</strong>: Flutter, Firebase</li>
+       <li><strong>Software development</strong>: Java, Spring Boot, React, Type Script</li>
+      <li><strong>Data Analysis</strong>: Python, Pandas, NumPy, relational databases</li>
+       <li><strong>Mobile Development</strong>: Flutter, Firebase, Android Studio</li>
     </ul>
   </li>
-   <li><strong>Also interested in</strong>: Building functional mobile apps using Flutter</li>
+   <li><strong>Also interested in</strong>: Building mobile apps using Flutter</li>
 </ul>
 
 <h3 style="text-align: left;">📚 What I’m Learning Right Now:</h3>
 <ul style="text-align: left;">
-  <li>Python for Data Engineering</li>
   <li>SQL & Database Management</li>
   <li>Data Visualization & Advanced Analytics</li>
 </ul>
